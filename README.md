@@ -13,6 +13,9 @@
 
 ## Shared Log Abstraction
 - [Log Structured Protocols in Delos | SOSP'2021](https://maheshba.bitbucket.io/papers/delos-sosp2021.pdf)
+- [Dynamically Scalable, Fault-Tolerant Coordination on a Shared Logging Service](https://citeseerx.ist.psu.edu/documentrepid=rep1&type=pdf&doi=47346278f7527f3191bfc60988342423414182b0)
+- [FuzzyLog: A Partially Ordered Shared Log | OSDI'2018](https://www.usenix.org/conference/osdi18/presentation/lockerman)
 - [vCorfu: A Cloud-Scale Object Store on a Shared Log | NSDI'2017](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-wei-michael.pdf)
 - [Tango: Distributed Databases over Shared Log | SOSP'2013](https://www.cs.cornell.edu/~taozou/sosp13/tangososp.pdf)
 - [CORFU: A Shared Log Design for Flash Clusters | NSDI'2012](https://www.cs.yale.edu/homes/mahesh/papers/corfumain-final.pdf)
+- [From Paxos to CORFU: a flash-speed shared log | SIGOPS'2012](https://dl.acm.org/doi/pdf/10.1145/2146382.2146391)
