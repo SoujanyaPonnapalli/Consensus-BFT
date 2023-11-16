@@ -7,7 +7,7 @@
 ## Consensus
 - [Virtual Consensus in Delos | OSDI'2020](https://www.usenix.org/system/files/osdi20-balakrishnan.pdf)
 - [RAFT | ATC'2014](https://raft.github.io/raft.pdf)
-- [Paxos Made Simple | ](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+- [Paxos Made Simple | 2001 ](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 - [The Part-Time Parliament | TOCS'1998](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf)
   
 
